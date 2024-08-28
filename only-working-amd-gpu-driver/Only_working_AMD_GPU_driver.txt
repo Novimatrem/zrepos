@@ -1,0 +1,2 @@
+Due to unresolvable limitations, this file has been removed from the backup. It can be found at its original source here: https://gitlab.com/Novimatrem/only-working-amd-gpu-driver/-/raw/main/Only_working_AMD_GPU_driver.zip?ref_type=heads&inline=false
+

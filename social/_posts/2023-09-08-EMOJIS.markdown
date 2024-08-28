@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "🌼 💐 🌸 🌺 🪷 🌹 🌻 🌷"
+date:   2023-09-08 23:19:00 +0000
+---
+<br>
+🌼 💐 🌸 🌺 🪷 🌹 🌻 🌷
+<br>
+Hello! Here's a test of emoji support across the entire stack.<br>
+How's your client holding up with it?
+<br>
+...
+
+<a href="mailto:TheNovimatrem@protonmail.ch?subject=RE%3A%20Social%20post%20-%20%F0%9F%8C%BC%F0%9F%92%90%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%AA%B7%F0%9F%8C%B9%F0%9F%8C%BB%F0%9F%8C%B7">Reply</a>
+
+...
+

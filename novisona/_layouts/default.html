@@ -1,0 +1,45 @@
+---
+layout: default
+---
+<!DOCTYPE html>
+
+
+<script type="text/javascript">
+console.log("trying to redirect to new new")
+if (window.location.pathname == '/novisona/') {
+   window.location.replace("https://novimatrem.gitlab.io/novisona/about/"); 
+}
+</script>
+
+<link rel="canonical" href="https://novimatrem.gitlab.io/novisona/about/">
+
+
+<script>
+document.getElementsByTagName("html")[0].insertAdjacentHTML(
+    "beforeend",
+    "<link rel=\"stylesheet\" href=\"https://gitlab.com/Novimatrem/blog/-/raw/master/_layouts/css.css\" />");
+</script>
+
+<link rel="stylesheet" type="text/css" href="https://gitlab.com/Novimatrem/blog/-/raw/master/_layouts/css.css">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<meta name="color-scheme" content="dark light">
+<a rel="me" href="https://meow.social/@novimatrem" style="display:none; visibility:hidden; color:transparent; text-decoration-color:transparent; font-size:0px;">My Mastodon</a>
+<a rel="me" href="https://fosstodon.org/@novichan" style="display:none; visibility:hidden; color:transparent; text-decoration-color:transparent; font-size:0px;">My Mastodon alt</a>
+<meta name="color-scheme" content="light dark" />
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

@@ -1,0 +1,129 @@
+<!-- i got a domain, so, this is needed to redirect, because gitlab pages is weird..
+<script type="text/javascript">
+console.log("trying to redirect to new new")
+if (window.location.hostname == 'novimatrem.gitlab.io') {
+   window.location.replace("https://novimatrem.uk/blog"); 
+}
+</script>
+
+<link rel="canonical" href="https://novimatrem.uk/blog">
+/i got a domain, so, this is needed to redirect, because gitlab pages is weird.. -->
+
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <a href="{{ 'feed.xml' | relative_url }}" style="color:#008148;">
+            <svg class="svg-icon orange">
+              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p>
+      {%- if site.author %}
+        <ul class="contact-list">
+          {% if site.author.name -%}
+            <li class="p-name">{{ site.author.name | escape }}</li>
+          {% endif -%}
+          {% if site.author.email -%}
+            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          {%- endif %}
+        </ul>
+      {%- endif %}
+      </div>
+      <div class="footer-col">
+        <p style="text-shadow: 1px 1px 1px rgb(0, 0, 0);">{{ site.description | escape }}</p>
+      </div>
+    </div>
+
+    <div class="social-links">
+      {%- include social.html -%}
+    </div>
+
+<img title="Trans pride!" alt="Trans pride!" src="https://novimatrem.uk/assets/banner.png" style="width:25%; height:auto; margin:0 auto; text-align: center; display: block; border:3px solid black; padding:0px;">
+<br>
+<div class="countup" id="countup1">
+  <span class="timeel days">00</span>
+  <span class="timeel timeRefDays">days on HRT</span>
+</div>
+<img src="https://gitlab.com/Novimatrem/blog/badges/master/pipeline.svg"></img>
+<br>
+<a href="https://gitlab.com/Novimatrem/blog/-/pipelines" style="font-size:12.25px; color: #008148;" target="_blank">Force Pipeline Rerun</a>
+<br>
+<a href="https://gitlab.com/-/profile/usage_quotas#pipelines-quota-tab" style="font-size:12.25px; color:#008148;" target="_blank">Quota</a>
+<script>
+/*
+ * Basic Count Up from Date and Time
+ * Author: @mrwigster / https://guwii.com/bytes/count-date-time-javascript/
+ */
+window.onload = function() {
+  // Month Day, Year Hour:Minute:Second, id-of-element-container
+  countUpFromTime("Dec 25, 2022 20:00:00", 'countup1'); // ****** Change this line!
+};
+function countUpFromTime(countFrom, id) {
+  countFrom = new Date(countFrom).getTime();
+  var now = new Date(),
+      countFrom = new Date(countFrom),
+      timeDifference = (now - countFrom);
+    
+  var secondsInADay = 60 * 60 * 1000 * 24,
+      secondsInAHour = 60 * 60 * 1000;
+    
+  days = Math.floor(timeDifference / (secondsInADay) * 1);
+  hours = Math.floor((timeDifference % (secondsInADay)) / (secondsInAHour) * 1);
+  mins = Math.floor(((timeDifference % (secondsInADay)) % (secondsInAHour)) / (60 * 1000) * 1);
+  secs = Math.floor((((timeDifference % (secondsInADay)) % (secondsInAHour)) % (60 * 1000)) / 1000 * 1);
+
+  var idEl = document.getElementById(id);
+  idEl.getElementsByClassName('days')[0].innerHTML = days;
+  idEl.getElementsByClassName('hours')[0].innerHTML = hours;
+  idEl.getElementsByClassName('minutes')[0].innerHTML = mins;
+  idEl.getElementsByClassName('seconds')[0].innerHTML = secs;
+
+  clearTimeout(countUpFromTime.interval);
+  countUpFromTime.interval = setTimeout(function(){ countUpFromTime(countFrom, id); }, 1000);
+}
+</script>
+
+<style>
+.countup {
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: 700;
+  text-rendering:optimizeLegibility;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  color:white;
+}
+.countup .timeel {
+  display: inline-block;
+  padding: 10px;
+  background: #151515;
+  margin: 0;
+  color: white;
+  min-width: 2.6rem;
+  margin-left: 13px;
+  border-radius: 10px 0 0 10px;
+  font-weight: 700;
+  text-rendering:optimizeLegibility;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  color:white;
+}
+.countup span[class*="timeRef"] {
+  border-radius: 0 10px 10px 0;
+  margin-left: 0;
+  background: #ff7eb7;
+  color: #fff;
+  font-weight: 700;
+  text-rendering:optimizeLegibility;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  color:white;
+}
+</style>
+         &nbsp;&nbsp;&nbsp;&nbsp;
+
+  </div>
+
+</footer>

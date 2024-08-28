@@ -1,0 +1,15 @@
+futaeveryword_bot@girlcock.club
+
+Every futa
+
+Might be quite lewd sometimes
+
+Posts once an hour, unlisted
+
+A bot inspired by @lesbianBot@botsin.space, and other bots of the kind, by @novimatrem@meow.social to spread pride and awareness, and for funnies - coded in bash, with xclip, wmctrl, and xbindkeys, for some reason, because I'm stubborn.
+
+Bot by @novimatrem@meow.social
+
+Banner is from the Wikipedia page for Futanari
+
+Fully open source at https://gitlab.com/Novimatrem/few-fedi-bot - though you probably do not want to run this yourself.

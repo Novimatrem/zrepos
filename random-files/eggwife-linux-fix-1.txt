@@ -1,0 +1,8 @@
+okay, can you find your Engine.ini file
+should be in the appdata
+local > eggwife > config
+then try adding
+
+[/Script/Engine.StreamingSettings]
+s.AsyncLoadingThreadEnabled=False
+

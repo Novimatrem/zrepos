@@ -1,0 +1,28 @@
+#!/usr/bin/perl
+# thank you mpy on superuser for this script.
+
+if ($ARGV[2] != "") { $n = $ARGV[2] } else { $n = 1 }
+$begin_str = $ARGV[0];
+$end_str = $ARGV[1];
+
+while(<STDIN>) {
+  if($_ =~ $begin_str) { $flag=1 }             # beginning of match, set flag    
+  if($_ =~ $end_str && $flag eq 1) { $i++ }    # i-th occurence of end string
+
+  if($i eq $n) {                               # end of match after n occurences of end string
+    $flag=2;
+    $i=0; 
+  }
+
+  if ($flag ge 1) {                            # append currrent line to matching part
+    $out.=$_;
+  }
+
+  if($flag eq 2) {                             # after detection of end of match, print complete match
+    print $out;
+    # print "---\n";                           # separator after a match
+    $out="";
+    $flag=0;
+  }
+
+}

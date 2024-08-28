@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /_includes/
+Disallow: /_layouts/
+Disallow: /_postsWIP/
+Disallow: /_sass/
+Disallow: /script/

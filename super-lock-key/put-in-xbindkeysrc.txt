@@ -1,0 +1,2 @@
+"bash /opt/super-lock-key/slk.sh"
+    Scroll_Lock

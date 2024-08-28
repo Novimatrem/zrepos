@@ -1,0 +1,2980 @@
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+untitled batch game IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:02 29/03/2022
+[REPORT] GAME VERSION "alpha v9.5f" 
+[REPORT] GAME VERSION VANITY NAME ""the final update"" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:02 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "dev bcharart fox" 
+[BCHAR_ART] "dev bcharart fox" - DISPLAYING FOX ART (wait 22 seconds) 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "dev bcharart fox" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "dev bcharart fox" 
+[BCHAR_ART] "dev bcharart fox" - DISPLAYING FOX ART (wait 22 seconds) 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "dev bcharart fox" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+untitled batch game IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:08 29/03/2022
+[REPORT] GAME VERSION "alpha v9.5f" 
+[REPORT] GAME VERSION VANITY NAME ""the final update"" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:08 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+untitled batch game IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:09 29/03/2022
+[REPORT] GAME VERSION "alpha v9.5f" 
+[REPORT] GAME VERSION VANITY NAME ""the final update"" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:09 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] """" 
+[WEIGHT] weight is "160" lbs 
+[BCHAR_ART] "" - DISPLAYING FOX ART (wait 22 seconds) 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+untitled batch game IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:09 29/03/2022
+[REPORT] GAME VERSION "alpha v9.5f" 
+[REPORT] GAME VERSION VANITY NAME ""the final update"" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:09 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[BCHAR_ART] "" - DISPLAYING FOX ART (wait 22 seconds) 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[BCHAR_ART] "" - DISPLAYING FOX ART (wait 22 seconds) 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+untitled batch game IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:11 29/03/2022
+[REPORT] GAME VERSION "alpha v9.5f" 
+[REPORT] GAME VERSION VANITY NAME ""the final update"" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:11 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[BCHAR_ART] "" - DISPLAYING FOX ART (wait 22 seconds) 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[BCHAR_ART] "" - DISPLAYING FOX ART (wait 22 seconds) 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+untitled batch game IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:13 29/03/2022
+[REPORT] GAME VERSION "alpha v9.5f" 
+[REPORT] GAME VERSION VANITY NAME ""the final update"" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:13 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+untitled batch game IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:14 29/03/2022
+[REPORT] GAME VERSION "alpha v9.5f" 
+[REPORT] GAME VERSION VANITY NAME ""the final update"" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:14 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+untitled batch game IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:14 29/03/2022
+[REPORT] GAME VERSION "alpha v9.5f" 
+[REPORT] GAME VERSION VANITY NAME ""the final update"" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:14 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+untitled batch game IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:16 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME ""the final update"" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:16 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:17 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME ""the final update"" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:17 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:19 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:19 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:22 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:22 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:23 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:23 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:25 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:25 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:26 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:26 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:27 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:27 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:29 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:29 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "'" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "''" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 4 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:30 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:30 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:32 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:32 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:32 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:32 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:33 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:33 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:34 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:34 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:34 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:34 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:36 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:36 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:39 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:39 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:40 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:40 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:41 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:41 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] """" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "cls" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 4 
+[USR_DID] "cls" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 5 
+[USR_DID] """" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "cls" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 6 
+[USR_DID] "cls" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "sussy baka" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 7 
+[USR_DID] """" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:49 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:49 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] """" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 19:55 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 19:55 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "dev roomid" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "dev roomid" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:01 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:01 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:04 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:04 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:10 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:10 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "go back" 
+[USR_ERR_NOT_ROOM] "go back" WASN'T IN THE ROOM ATM (current room ID is '"=1"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "go back" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:11 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:11 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "dev roomid" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 4 
+[USR_DID] "dev roomid" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:14 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:14 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "go back" 
+[USR_ERR_NOT_ROOM] "go back" WASN'T IN THE ROOM ATM (current room ID is '"=1"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "go back" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "apple" 
+[USR_ERR_NOT_ROOM] "apple" WASN'T IN THE ROOM ATM (current room ID is '"=1"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 4 
+[USR_DID] "apple" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "jump" 
+[USR_ERR_NOT_ROOM] "jump" WASN'T IN THE ROOM ATM (current room ID is '"=1"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 5 
+[USR_DID] "jump" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "monster" 
+[USR_ERR_NOT_ROOM] "monster" WASN'T IN THE ROOM ATM (current room ID is '"=1"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 6 
+[USR_DID] "monster" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "flirt" 
+[USR_ERR_NOT_ROOM] "flirt" WASN'T IN THE ROOM ATM (current room ID is '"=1"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 7 
+[USR_DID] "flirt" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "height" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 8 
+[USR_DID] "height" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "look" 
+[USR] query "retry" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 9 
+[USR_DID] """" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "restart" 
+[REPORT] "restart" TYPED, RESTARTING GAME FROM BAT 
+[REPORT] GAME WAS CLOSED BY THE GAME AT 20:16 29/03/2022 
+"===================================================" 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:16 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:16 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:18 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:18 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "inventory" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "inventory" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "items" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 4 
+[USR_DID] "items" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "look" 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:19 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:19 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "inventory" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "inventory" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "items" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 4 
+[USR_DID] "items" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "look" 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:21 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:21 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "inventory" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "inventory" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "items" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 4 
+[USR_DID] "items" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "look" 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:22 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:22 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:23 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:23 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "inventory" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "inventory" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "items" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 4 
+[USR_DID] "items" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "look" 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:24 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:24 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "go back" 
+[USR_ERR_NOT_ROOM] "go back" WASN'T IN THE ROOM ATM (current room ID is '"=1"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "go back" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "apple" 
+[USR_ERR_NOT_ROOM] "apple" WASN'T IN THE ROOM ATM (current room ID is '"=1"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 4 
+[USR_DID] "apple" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "jump" 
+[USR_ERR_NOT_ROOM] "jump" WASN'T IN THE ROOM ATM (current room ID is '"=1"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 5 
+[USR_DID] "jump" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "monster" 
+[USR_ERR_NOT_ROOM] "monster" WASN'T IN THE ROOM ATM (current room ID is '"=1"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 6 
+[USR_DID] "monster" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "flirt" 
+[USR_ERR_NOT_ROOM] "flirt" WASN'T IN THE ROOM ATM (current room ID is '"=1"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 7 
+[USR_DID] "flirt" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 8 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "exit" 
+[REPORT] "exit" TYPED, NOPING GAME WITH BATCH EXIT 
+[REPORT] GAME WAS CLOSED BY THE GAME AT 20:30 29/03/2022 
+"===================================================" 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:30 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:30 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "exit" 
+[REPORT] "exit" TYPED, NOPING GAME WITH BATCH EXIT 
+[REPORT] GAME WAS CLOSED BY THE GAME AT 20:32 29/03/2022 
+"===================================================" 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:32 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:32 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:33 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:33 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:35 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:35 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "go back" 
+[USR_ERR_NOT_ROOM] "go back" WASN'T IN THE ROOM ATM (current room ID is '"=1"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "go back" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "apple" 
+[USR_ERR_NOT_ROOM] "apple" WASN'T IN THE ROOM ATM (current room ID is '"=1"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 4 
+[USR_DID] "apple" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "jump" 
+[USR_ERR_NOT_ROOM] "jump" WASN'T IN THE ROOM ATM (current room ID is '"=1"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 5 
+[USR_DID] "jump" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "monster" 
+[USR_ERR_NOT_ROOM] "monster" WASN'T IN THE ROOM ATM (current room ID is '"=1"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 6 
+[USR_DID] "monster" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "flirt" 
+[USR_ERR_NOT_ROOM] "flirt" WASN'T IN THE ROOM ATM (current room ID is '"=1"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 7 
+[USR_DID] "flirt" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 8 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "go back" 
+[USR_ERR_NOT_ROOM] "go back" WASN'T IN THE ROOM ATM (current room ID is '"=99"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 9 
+[USR_DID] "go back" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "apple" 
+[USR_ERR_NOT_ROOM] "apple" WASN'T IN THE ROOM ATM (current room ID is '"=99"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 10 
+[USR_DID] "apple" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "jump" 
+[USR_ERR_NOT_ROOM] "jump" WASN'T IN THE ROOM ATM (current room ID is '"=99"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 11 
+[USR_DID] "jump" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "monster" 
+[USR_ERR_NOT_ROOM] "monster" WASN'T IN THE ROOM ATM (current room ID is '"=99"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 12 
+[USR_DID] "monster" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "flirt" 
+[USR_ERR_NOT_ROOM] "flirt" WASN'T IN THE ROOM ATM (current room ID is '"=99"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 13 
+[USR_DID] "flirt" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:38 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:38 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "go back" 
+[USR_ERR_NOT_ROOM] "go back" WASN'T IN THE ROOM ATM (current room ID is '"=1"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "go back" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "apple" 
+[USR_ERR_NOT_ROOM] "apple" WASN'T IN THE ROOM ATM (current room ID is '"=1"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 4 
+[USR_DID] "apple" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "jump" 
+[USR_ERR_NOT_ROOM] "jump" WASN'T IN THE ROOM ATM (current room ID is '"=1"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 5 
+[USR_DID] "jump" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "monster" 
+[USR_ERR_NOT_ROOM] "monster" WASN'T IN THE ROOM ATM (current room ID is '"=1"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 6 
+[USR_DID] "monster" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "flirt" 
+[USR_ERR_NOT_ROOM] "flirt" WASN'T IN THE ROOM ATM (current room ID is '"=1"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 7 
+[USR_DID] "flirt" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "items" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 8 
+[USR_DID] "items" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "look" 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 9 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "go back" 
+[USR_ERR_NOT_ROOM] "go back" WASN'T IN THE ROOM ATM (current room ID is '"=99"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 10 
+[USR_DID] "go back" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "apple" 
+[USR_ERR_NOT_ROOM] "apple" WASN'T IN THE ROOM ATM (current room ID is '"=99"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 11 
+[USR_DID] "apple" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "jump" 
+[USR_ERR_NOT_ROOM] "jump" WASN'T IN THE ROOM ATM (current room ID is '"=99"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 12 
+[USR_DID] "jump" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "monster" 
+[USR_ERR_NOT_ROOM] "monster" WASN'T IN THE ROOM ATM (current room ID is '"=99"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 13 
+[USR_DID] "monster" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "flirt" 
+[USR_ERR_NOT_ROOM] "flirt" WASN'T IN THE ROOM ATM (current room ID is '"=99"') 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 14 
+[USR_DID] "flirt" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:42 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:42 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "retry" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 4 
+[USR_DID] """" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "reboot" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 5 
+[USR_DID] """" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:43 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:43 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "restart" 
+[REPORT] "restart" TYPED, RESTARTING GAME FROM BAT 
+[REPORT] GAME WAS CLOSED BY THE GAME AT 20:52 29/03/2022 
+"===================================================" 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:52 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:52 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "restart" 
+[REPORT] "restart" TYPED, RESTARTING GAME FROM BAT 
+[REPORT] GAME WAS CLOSED BY THE GAME AT 20:54 29/03/2022 
+"===================================================" 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:54 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:54 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:56 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:56 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "exit" 
+[REPORT] "exit" TYPED, NOPING GAME WITH BATCH EXIT 
+[REPORT] GAME WAS CLOSED BY THE GAME AT 20:58 29/03/2022 
+"===================================================" 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:58 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:58 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "start" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] """" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 4 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "exit" 
+[REPORT] "exit" TYPED, NOPING GAME WITH BATCH EXIT 
+[REPORT] GAME WAS CLOSED BY THE GAME AT 20:58 29/03/2022 
+"===================================================" 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 20:58 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 20:58 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "start" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] """" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 4 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 21:00 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 21:00 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 21:00 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 21:00 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "start" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] """" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 4 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "start" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 5 
+[USR_DID] """" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "highlighted phrases" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 6 
+[USR_DID] """" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "exit" 
+[REPORT] "exit" TYPED, NOPING GAME WITH BATCH EXIT 
+[REPORT] GAME WAS CLOSED BY THE GAME AT 21:03 29/03/2022 
+"===================================================" 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 21:03 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 21:03 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "highlighted phrases" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 4 
+[USR_DID] """" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 21:05 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 21:05 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "highlighted phrases" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 4 
+[USR_DID] "highlighted phrases" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 21:05 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 21:05 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 4 
+[USR_DID] """" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 21:07 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 21:07 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "exit" 
+[REPORT] "exit" TYPED, NOPING GAME WITH BATCH EXIT 
+[REPORT] GAME WAS CLOSED BY THE GAME AT 21:07 29/03/2022 
+"===================================================" 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 21:07 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 21:07 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "highlighted phrases" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 4 
+[USR_DID] "highlighted phrases" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "start" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 5 
+[USR_DID] """" 
+[WEIGHT] weight is "160" lbs 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 21:10 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 21:10 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "start" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] """" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 4 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "start" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 5 
+[USR_DID] """" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "highlighted phrases" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 6 
+[USR_DID] "highlighted phrases" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "exit" 
+[REPORT] "exit" TYPED, NOPING GAME WITH BATCH EXIT 
+[REPORT] GAME WAS CLOSED BY THE GAME AT 21:11 29/03/2022 
+"===================================================" 
+ 
+This is the LOG FILE for the game.  
+There may be CONTENT AND ENDING SPOILERS that may entirely RUIN YOUR GAME EXPERIENCE if seen early or without context.  
+Even innocent code or regular looking comments may contain SECRETS and SPOILERS, ruining your fun.  
+Please do not look further unless you have already experienced and played the game as much as you will do.  
+ 
+ 
+fluffy foxy adventures IS LOGGING WHAT HAPPENS IN THE GAME TO MAKE BUG-SPOTTING EASIER  
+THIS WILL ONLY BE SEEN BY THOSE WHO YOU SHARE IT WITH, IF YOU ENCOUNTER BUGS PLEASE SEND TO THE DEVELOPER  
+ALONG WITH A DESCRIPTION OF WHAT OCCURED WHEN THE BUG HAPPENED, AND IT WILL BE FIXED/CORRECTED ASAP.  
+FEEL FREE TO INCLUDE MEDIA SUCH AS SCREENSHOTS/VIDEOS, DEV CONTACT INFO SEEN ON GAME-LAUNCH.  
+ 
+"===================================================" 
+[REPORT] GAME STARTED AT 21:11 29/03/2022
+[REPORT] GAME VERSION "newtest v0.3" 
+[REPORT] GAME VERSION VANITY NAME """" 
+ 
+"===================================================" 
+"LOG PREFIXES KEY:" 
+ 
+"REPORT - log of things to do with the game internally, that are somewhat important." 
+"TURNCOUNTER - log of things to do with the internal time system for turn-based things." 
+"USR - log of user actions." 
+"USR_DID - log of those same user actions, sometimes USR misses them, USR_DID is more raw and unfiltered but also a little later.." 
+"ERROR - log of something that has gone wrong and a developer needs to fix ASAP." 
+"USR_ERR_NOT_ROOM - log of when the user tries to interact with something that the are not in the same 'room' as." 
+"BCHAR_ART - log of when the game does things in regards to block character art, which is logged about due to the large rendering time they have." 
+"WEIGHT - how fatty the user has gotten. (more of a curiosity than anything)" 
+"===================================================" 
+ 
+[REPORT] GAME BASICALLY READY AT 21:11 29/03/2022 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 0 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 2 
+[USR_DID] "" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "intro" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 3 
+[USR_DID] "intro" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "highlighted phrases" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 4 
+[USR_DID] "highlighted phrases" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "start" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 5 
+[USR_DID] """" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "words" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 6 
+[USR_DID] """" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "asdf" 
+[TURNCOUNTER] back to updateroom 
+[TURNCOUNTER] TURNCOUNTER is 7 
+[USR_DID] """" 
+[WEIGHT] weight is "160" lbs 
+[USR] query "exit" 
+[REPORT] "exit" TYPED, NOPING GAME WITH BATCH EXIT 
+[REPORT] GAME WAS CLOSED BY THE GAME AT 21:13 29/03/2022 
+"===================================================" 

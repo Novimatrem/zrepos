@@ -1,0 +1,145 @@
+---
+layout: default
+---
+<!DOCTYPE html>
+
+<!-- i got a domain, so, this is needed to redirect, because gitlab pages is weird..
+<script type="text/javascript">
+console.log("trying to redirect to new new")
+if (window.location.hostname == 'novimatrem.gitlab.io') {
+   window.location.replace("https://novimatrem.uk/blog"); 
+}
+</script>
+
+<link rel="canonical" href="https://novimatrem.uk/blog">
+/i got a domain, so, this is needed to redirect, because gitlab pages is weird.. -->
+
+<script>
+document.getElementsByTagName("html")[0].insertAdjacentHTML(
+    "beforeend",
+    "<link rel=\"stylesheet\" href=\"https://gitlab.com/Novimatrem/blog/-/raw/master/_layouts/css.css\" />");
+</script>
+
+<link rel="stylesheet" type="text/css" href="https://gitlab.com/Novimatrem/blog/-/raw/master/_layouts/css.css">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<meta name="color-scheme" content="dark light">
+<a rel="me" href="https://meow.social/@novimatrem" style="display:none; visibility:hidden; color:transparent; text-decoration-color:transparent; font-size:0px;">My Mastodon</a>
+<a rel="me" href="https://fosstodon.org/@novichan" style="display:none; visibility:hidden; color:transparent; text-decoration-color:transparent; font-size:0px;">My Mastodon alt</a>
+<meta name="color-scheme" content="light dark" />
+  {%- include head.html -%}
+
+  <body>
+    
+<style>
+html {
+  filter: invert(1.0);
+}
+body {
+  filter: invert(0.0);
+  background: linear-gradient( rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85) ), url('https://novimatrem.uk/assets/background-normal-invert.JPG') no-repeat center center fixed; background-size:cover; filter: invert(0.0);
+}
+img {
+  filter: invert(1.0);
+}
+pre {
+  filter: invert(1.0);
+}
+iframe {
+  filter: invert(0.0);
+}
+article {
+  filter: invert(1.0);
+}
+span {
+filter: invert(1.0);
+}
+h4 {
+filter: invert(1.0);
+}
+h1 {
+filter: invert(1.0);
+}
+em {
+filter: invert(0.0);
+color:black;
+}
+p {
+filter: invert(1.0);
+text-shadow: 1px 1px 1px rgb(255, 255, 255);
+}
+h2 {
+filter: invert(1.0);
+}
+h3 {
+filter: invert(1.0);
+}
+h5 {
+filter: invert(1.0);
+}
+video {
+filter: invert(1.0);
+}
+table {
+  width:180px;
+}
+.post-link {
+  color: #ff7eb7;
+  outline: 0px solid transparent;
+}
+#post-link {
+  color: #ff7eb7;
+  outline: 0px solid transparent;
+}
+a.post-link {
+  color: #ff7eb7;
+  outline: 0px solid transparent;
+}
+a {
+  color: #008148; /* MUST remain like this to have certain kinds of links in pink */
+  outline: 0px solid transparent;
+}
+a:visited {
+  color: #ff7eb7;  /* MUST remain like this to have blog post names on homepage in pink */
+  outline: 0px solid transparent;
+}
+#a {
+  color: #ff7eb7;
+  outline: 0px solid transparent;
+}
+a. {
+  color: #ff7eb7;
+  outline: 0px solid transparent;
+}
+.site-footer {
+color:transparent;
+border-top: 0px solid transparent;
+}
+.site-header {
+color:transparent;
+border-top: 0px solid transparent;
+border-bottom: 0px solid transparent;
+}
+.wrapper {
+	max-width: calc(800px - (30px * 2));
+	padding-right: 30px;
+	padding-left: 30px;
+	background: rgba(255,255,255,0.5);
+	border-radius: 16px;
+	padding: 10px;
+	text-rendering: optimizeLegibility;
+}
+</style>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
